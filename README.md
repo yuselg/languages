@@ -25,7 +25,7 @@ In the webapp mode, it is also relatively dificult for students to write unit te
 
 A Java version of Fizzbuzz ([source](java/Fizzbuzz.java))  might look as follows:
 
-![png](java/java.png)
+![png](Java/java.png)
 
 Although we do not have the distraction of HTML scaffolding, we do need to inform beginning students to ignore kewords such as **static** and **void**, and OO concepts such as `Scanner input = new Scanner(System.in);` just to get input.
 
@@ -37,9 +37,9 @@ Static typing is a plus for student comprehension of computation.
 
 ## Python
 
-A Python version of Fizzbuzz ([source](python/fizzbuzz.py))  might look as follows:
+A Python version of Fizzbuzz ([source](Python/fizzbuzz.py))  might look as follows:
 
-![png](python/python.png)
+![png](Python/python.png)
 
 Relatively simple IDE's such as VS Code support debugging. There is no HTLM scaffolding, or the distraction of OO. Thus beginning students can focus on the computational core.
 
