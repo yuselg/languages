@@ -23,7 +23,7 @@ In the webapp mode, it is also relatively dificult for students to write unit te
 
 ## Java
 
-A Java version of Fizzbuzz ([source](java/Fizzbuzz.java))  might look as follows:
+A Java version of Fizzbuzz ([source](Java/Fizzbuzz.java))  might look as follows:
 
 ![png](Java/java.png)
 
