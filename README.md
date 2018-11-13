@@ -43,6 +43,8 @@ A Python version of Fizzbuzz ([source](Python/fizzbuzz.py))  might look as follo
 
 Relatively simple IDE's such as VS Code support debugging. There is no HTLM scaffolding, or the distraction of OO. Thus beginning students can focus on the computational core.
 
+How do we get engagement? Perhaps at the end of the course with nice examples from Data Science, Machine Learning or webapps (such as Flask). But that would come at the end, not the beginning. 
+
 
 
 
