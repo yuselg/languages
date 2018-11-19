@@ -1,9 +1,23 @@
-# languages
-Comparison of some first year teaching languages for beginners. How do we get **engagement**, how do we get competence in **computational thinking** (some basic algorthms and data structures)?
+# Languages
+Comparison of some first year teaching languages for beginners. How do we get **engagement** -- versus, how do we get competence in **computational thinking** (basic algorithms and data structures)?
 
 * Javascript
 * Python 
 * Java
+
+**Fizzbuzz**: [A common coding question in interviews](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166):
+
+---
+**Interviews** They can be awful for everybody involved. Having been both an interviewer and an interviewee, I can attest that interviews are a big time sink, extremely stressful and a really bad indicator of future job performance. Nevertheless, they are a necessary evil that you and your résumé better be prepared for. If you’re considering a career in Software Engineering, make sure to learn some of the most commonly asked programming interview questions, such as ‘FizzBuzz’:
+
+“Write a program that prints the numbers from 1 to 100. But for multiples of three print ‘Fizz’ instead of the number and for the multiples of five print ‘Buzz’. For numbers which are multiples of both three and five print ‘FizzBuzz’.”
+(Coding Horror)
+
+Sounds simple enough, right?
+
+Well, the vast majority of interviewees fail this simple test, let alone its more complex variants. (Of course, you also need to know basic algorithms and datas structures, etc. ..)
+
+---
 
 ## Javascript
 
@@ -11,15 +25,15 @@ The web page should look as follows:
 
 ![png](javascript/fizzbuzz.png)
 
-Javascript embedded in the HTML scaffolding ([source](javascript/fizzbuzz.html)) would looksomething like:
+Javascript embedded in the html scaffolding ([source](javascript/fizzbuzz.html)) would look something like:
 
 ![png](javascript/html.png)
 
-Students have to learn html, css and Javascript just to write procedural programs. The HTML scaffolding gets in the way of the procedural learning. Flashy webapps have more to do with colorful buttons and forms rather than writing loops (algorithmic thinking). 
+Students have to learn html, css and Javascript just to write procedural programs. The HTML scaffolding gets in the way of the procedural learning. Flashy webapps have more to do with colourful buttons and forms rather than writing loops (algorithmic thinking). 
 
 We could use **nano** (JS at the server end) to write and test pure Javascript code free of its scaffolding, but then we would lose student engagement (flashy web apps). We might then consider simpler languages such as Python. 
 
-In the webapp mode, it is also relatively dificult for students to write unit tests (see Qunit, for example). Debuggers in browsers are also fairly hard to master.
+In the web-app mode, it is also relatively difficult for students to write unit tests (see Qunit, for example). Debuggers in browsers are also fairly hard to master.
 
 ## Java
 
