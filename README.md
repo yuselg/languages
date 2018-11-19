@@ -5,9 +5,11 @@ Comparison of some first year teaching languages for beginners. How do we get **
 * Python 
 * Java
 
+
+#  A simple problem
+---
 **Fizzbuzz**: [A common coding question in interviews](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166):
 
----
 **Interviews** They can be awful for everybody involved. Having been both an interviewer and an interviewee, I can attest that interviews are a big time sink, extremely stressful and a really bad indicator of future job performance. Nevertheless, they are a necessary evil that you and your résumé better be prepared for. If you’re considering a career in Software Engineering, make sure to learn some of the most commonly asked programming interview questions, such as ‘FizzBuzz’:
 
 “Write a program that prints the numbers from 1 to 100. But for multiples of three print ‘Fizz’ instead of the number and for the multiples of five print ‘Buzz’. For numbers which are multiples of both three and five print ‘FizzBuzz’.”
@@ -16,6 +18,14 @@ Comparison of some first year teaching languages for beginners. How do we get **
 Sounds simple enough, right?
 
 Well, the vast majority of interviewees fail this simple test, let alone its more complex variants. (Of course, you also need to know basic algorithms and datas structures, etc. ..)
+
+[Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/)
+
+I was incredulous when I read this observation from Reginald Braithwaite:
+
+Like me, the author is having trouble with the fact that 199 out of 200 applicants for every programming job can't write code at all. I repeat: they can't write any code whatsoever. ...
+
+A surprisingly large fraction of applicants, even those with masters' degrees and PhDs in computer science, fail during interviews when asked to carry out basic programming tasks. 
 
 ---
 
