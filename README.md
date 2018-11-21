@@ -31,7 +31,7 @@ A surprisingly large fraction of applicants, even those with masters' degrees an
 
 ## Javascript
 
-The web page should look as follows:
+The web page should look as follows (execute it [here](https://www.eecs.yorku.ca/~eiffel/langs/fizzbuzz.html)):
 
 ![png](javascript/fizzbuzz.png)
 
