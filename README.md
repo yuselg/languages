@@ -27,6 +27,9 @@ Like me, the author is having trouble with the fact that 199 out of 200 applican
 
 A surprisingly large fraction of applicants, even those with masters' degrees and PhDs in computer science, fail during interviews when asked to carry out basic programming tasks. 
 
+There are many sites with a variety of coding examples to prepare for an interview such as [LeetCode](https://leetcode.com). For example, see
+[Simple Linked List Question](https://leetcode.com/accounts/login/?next=/explore/interview/card/top-interview-questions-easy/93/linked-list/603/) (free signon). [Linekd List Image](Java/linked.png).
+
 ---
 
 ## Javascript
