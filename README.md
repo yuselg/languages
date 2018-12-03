@@ -1,4 +1,4 @@
-# Languages
+# CS1 Languages
 Comparison of some first year teaching languages for beginners. How do we get **engagement** -- versus, how do we get competence in **computational thinking** (basic algorithms and data structures)?
 
 By basic CS1 computational thinking we mean the use of simple algorithmic thinking to convert problems into code using variables, assignments, conditionals, loops & loop-termination, arrays, procedures, and some I/O. [Not yet OO, recursion etc]. 
